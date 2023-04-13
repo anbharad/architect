@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: This is about me
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
@@ -10,11 +10,11 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# My First Project
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## My Second Project
 
 > This is a blockquote following a header.
 >
@@ -37,13 +37,13 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+#### Header 4th
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### Header 5
+##### Header 5th
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
